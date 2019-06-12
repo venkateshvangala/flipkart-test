@@ -1,2 +1,2 @@
 # flipkart-test
-test repo for our team
+This is e-commerce application
